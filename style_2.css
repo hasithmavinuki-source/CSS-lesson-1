@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(122, 160, 147);
+}
+h1{
+    color: rgb(17, 80, 59);
+    font-family: Herr Von Muellerhoff;
+    text-decoration: dotted;
+    border-top-style:groove;
+    border-bottom-style:dashed ;
+    border-bottom-width:5px;
+    border-left-style:dotted;
+    border-right-style:double;
+    border-color:brown;
+    padding:8px;
+    border-radius:20px;
+}
+p{
+    border-style:dotted ;
+    border-color:aquamarine;
+    border-radius: 20px;
+    padding:5px;
+}

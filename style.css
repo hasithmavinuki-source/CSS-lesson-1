@@ -1,0 +1,21 @@
+body{
+    background-color:rgb(63, 38, 21)
+}
+h1{
+    font-family:Herr Von Muellerhoff;
+    color: rgb(234, 207, 181);
+}
+p{
+    color:rgb(130, 130, 96);
+    font-family:'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: small;
+    font-weight: bold;
+    font-style: oblique;
+}
+.Tutu{
+    color:rgb(195, 137, 249);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#pinky{
+    color:palevioletred; text-decoration: wavy underline;
+}
